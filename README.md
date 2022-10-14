@@ -23,6 +23,10 @@ Rclone *("rsync for cloud storage")* is a command-line program to sync files and
 
 https://blog.csdn.net/a_917/article/details/123211049
 
+windows 编译 
+go build -tags cmount
+
+
 
 
 ## Storage providers
